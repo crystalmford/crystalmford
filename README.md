@@ -1,6 +1,6 @@
 # Hi, I’m Crystal Ford
 
-I’m a data scientist-in-training with a deep belief in using data for good. I'm currently completing my Master of Science in Data Analytics at WGU, where I’m building projects in machine learning, time series forecasting, deep learning, and model deployment.
+I’m a Data Scientist with a Master of Science in Data Analytics (WGU), specializing in machine learning, forecasting, deep learning, and model deployment. My portfolio includes SQL-driven Tableau dashboards, predictive APIs, and advanced analytics projects that bridge technical rigor with clear, human-centered storytelling.
 
 Before pivoting into tech, I co-founded a nonprofit dedicated to helping Native organizations modernize their data systems without compromising sovereignty or security. We ran a real-world fundraising campaign and implemented Salesforce to demonstrate how modern platforms could be used safely and effectively. One of our first partnerships was with a women’s shelter where records were still kept in handwritten notebooks — and that moment changed everything. It taught me that data work is human work, and that the right tools can be transformative.
 
